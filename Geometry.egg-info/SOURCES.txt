@@ -1,0 +1,10 @@
+setup.py
+Geometry/Paralelepipedo.py
+Geometry/Rectangle.py
+Geometry/__init__.py
+Geometry/test.py
+Geometry.egg-info/PKG-INFO
+Geometry.egg-info/SOURCES.txt
+Geometry.egg-info/dependency_links.txt
+Geometry.egg-info/not-zip-safe
+Geometry.egg-info/top_level.txt
